@@ -30,6 +30,4 @@ Run the program:
 python3 russky.py
 ```
 
-## License
 
-MIT License
