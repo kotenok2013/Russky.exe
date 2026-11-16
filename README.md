@@ -20,7 +20,7 @@ A small funny Python app inspired by Russian culture.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/russky.exe.git
+git clone https://github.com/kotenok2013/Russky.exe.git
 cd russky.exe
 ```
 
